@@ -1,4 +1,5 @@
 For https://github.com/denoland/deno/issues/23562
+Originally reported in https://github.com/opral/inlang-paraglide-js/issues/86
 
 Version: Deno 1.42.4
 
